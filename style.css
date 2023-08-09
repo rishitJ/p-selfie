@@ -1,0 +1,37 @@
+#developer
+{
+    bottom: 0%;
+}
+h1
+{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+h4
+{
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+}
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border-color: black;
+}
+#result1
+{
+    width: 275px;
+    height: 175px;
+}
+#result2
+{
+    width: 275px;
+    height: 175px;
+}
+#result3
+{
+    width: 275px;
+    height: 175px;
+}
